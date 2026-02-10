@@ -31,3 +31,7 @@ This project demonstrates my ability to think in terms of systems, structure ful
 **Anass**  
 Full-Stack Web Developer  
 Portfolio: (link will be added)
+
+## Status
+This project is under active development.  
+Improvements, refinements, and feature expansion are ongoing.
