@@ -17,3 +17,5 @@
 
 ## Goal
 Deliver a production-ready website generation platform suitable for real clients and businesses.
+
+_Last updated: February 2026_
